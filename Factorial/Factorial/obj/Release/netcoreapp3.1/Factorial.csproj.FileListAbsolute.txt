@@ -1,0 +1,13 @@
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.exe
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.deps.json
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.runtimeconfig.json
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.dll
+G:\Шарпы\Tasks\fact\Factorial\Factorial\bin\Release\netcoreapp3.1\Factorial.pdb
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.AssemblyInfo.cs
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.dll
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.pdb
+G:\Шарпы\Tasks\fact\Factorial\Factorial\obj\Release\netcoreapp3.1\Factorial.genruntimeconfig.cache
